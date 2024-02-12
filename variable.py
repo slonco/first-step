@@ -13,6 +13,9 @@ print("Result: ", num1 * num2)
 print("Result: ", num1 - num2)
 print("Result: ", num1 / num2)
 
+
+
+
 # number = 5**2
 # digit = 7
 # text = "Результат: "
