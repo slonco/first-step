@@ -44,7 +44,7 @@
 ###
 # Тернарный оператор
 
-data = input()
+data = input("Введите число: ")
 
 # if data == "Five":
 #     number = 5
